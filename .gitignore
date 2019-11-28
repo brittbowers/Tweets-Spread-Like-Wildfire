@@ -1,4 +1,13 @@
+/gsdmm
+/trained_models
+/preprocessor
 /data
 .ipynb_checkpoints
 .DS_Store
+/pics
 /GetOldTweets-python
+/gsdmm-master
+/website
+twitter_api_test.ipynb
+db_setup.md
+/storytelling-master
